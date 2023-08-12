@@ -55,6 +55,6 @@ $d = 7;
 
 $resultado = (($a + $b) * $c) / ($a - $d);
 
-echo "EL resultado es:" . $resultado;
+echo "El resultado es:" . $resultado;
 
 ?>
